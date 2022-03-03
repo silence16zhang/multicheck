@@ -1,0 +1,16 @@
+/* TODO */
+.MultiCheck {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.MultiCheck .container {
+  display: flex;
+
+}
+
+.MultiCheck .container .column {
+  margin-top: 5px;
+  margin-right: 10px;
+}
